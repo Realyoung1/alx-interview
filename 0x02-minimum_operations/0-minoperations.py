@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 Minimum Operations 
-there is a single character H. in a text file
+there is a single character H. in a text
 my text editor can only execyte only two
 Prototype: def minOperations(n)
 Returns an integer
