@@ -8,7 +8,6 @@ Returns an integer
 
 """
 
-
 def minOperations(n):
     """Calculate fewest no. of operations needed to result in n H characters"""
     t = 0
