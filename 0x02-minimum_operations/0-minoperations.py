@@ -2,8 +2,7 @@
 """
 Minimum Operations 
 there is a single character H. in a text file
-my text editor can only execyte only two operations
-Copied and Pasted
+my text editor can only execyte only two
 Prototype: def minOperations(n)
 Returns an integer
 
