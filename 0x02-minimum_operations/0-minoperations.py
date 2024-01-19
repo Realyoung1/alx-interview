@@ -6,7 +6,6 @@ my text editor can only execyte only two operations
 Copied and Pasted
 Prototype: def minOperations(n)
 Returns an integer
-If n is impossible to achieve, return 0
 
 """
 
