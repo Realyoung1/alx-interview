@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Contains method to determine the winner of a game
+Contains method to determine the winner
 of prime numbers.
 """
 
